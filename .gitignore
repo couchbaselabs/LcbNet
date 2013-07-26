@@ -1,0 +1,19 @@
+*.exe
+*.dll
+*.pdb
+*.swp
+*.swo
+# *.user
+*.suo
+*.sdf
+*~
+*.opensdf
+*.lib
+*.obj
+*.log
+*.ilk
+bin/*
+Debug
+Obj
+ipch
+
